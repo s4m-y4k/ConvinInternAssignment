@@ -10,4 +10,4 @@ Problem: In this assignment you have to implement google calendar integration us
 
 2. Once got the access_token get list of events in users calendar
 
-You need to write the code in Django. You are not supposed to use any existing third-party library other then google's provided standard libraries
+You need to write the code in Django. You are not supposed to use any existing third-party library other then google's provided standard libraries.
